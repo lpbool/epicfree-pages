@@ -1,0 +1,142 @@
+{
+  "updated": "2026-01-01T17:05:13.046575+00:00",
+  "currentFree": [
+    {
+      "id": "acd0b5048a0d43ec80909788a388964a",
+      "slug": "wildgate-standard-edition-b886b5",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Wildgate",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_2560x1440_2560x1440-e996755894df43a4b28c831e7a0290d2",
+      "epicUrl": "https://store.epicgames.com/ko/p/wildgate-standard-edition-b886b5",
+      "freePeriod": {
+        "start": "2026-01-01T16:00:00+00:00",
+        "end": "2026-01-08T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 80,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "77f90158ddc1488baeb4155bd934fbbd",
+      "slug": "total-war-three-kingdoms-d3bb7a",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Total War: THREE KINGDOMS",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_2560x14401_2560x1440-ac71243943c54e85955897af724527f2",
+      "epicUrl": "https://store.epicgames.com/ko/p/total-war-three-kingdoms-d3bb7a",
+      "freePeriod": {
+        "start": "2026-01-01T16:00:00+00:00",
+        "end": "2026-01-08T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 85,
+        "opencritic": null,
+        "steam": 82,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "b27e3b556f1048b9824c7196f32afceb",
+      "slug": "bloons-td-6-bf95a0",
+      "namespace": "6a8dfa6e441e4f2f9048a98776c6077d",
+      "title": "Bloons TD 6",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/bloons-td-6-bf95a0",
+      "freePeriod": {
+        "start": "2026-01-08T16:00:00+00:00",
+        "end": "2026-01-15T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 97,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
+    {
+      "id": "cbe6c0707eaf48348fb5a8b7ad43c195",
+      "slug": "chivalry-2",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Chivalry 2",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec31_giveaway_2560x14401_2560x1440-d0f16b070b06435bad29ebb36cf5db5d",
+      "epicUrl": "https://store.epicgames.com/ko/p/chivalry-2",
+      "freePeriod": {
+        "start": "2025-12-31T16:00:00+00:00",
+        "end": "2026-01-01T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 82,
+        "opencritic": null,
+        "steam": 81,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "e9fc82ad6ebd4cf2b4a152c85c4def39",
+      "slug": "skald-against-the-black-priory-cffcc0",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "SKALD Against the Black Priory",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec28_giveaway_2560x1440_2560x1440-6e65e3af8d0742b391724579dc4b3822",
+      "epicUrl": "https://store.epicgames.com/ko/p/skald-against-the-black-priory-cffcc0",
+      "freePeriod": {
+        "start": "2025-12-28T16:00:00+00:00",
+        "end": "2025-12-29T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": null,
+        "epic": null,
+        "opencritic": null,
+        "steam": 94,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "72f7c809d1d546dfb59f5a3ddd96e5ec",
+      "slug": "cassette-beasts-32c8e0",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Cassette Beasts",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec27_giveaway_2560x14401_2560x1440-5f94bf795c3e4e6f8af0c66453261a7b",
+      "epicUrl": "https://store.epicgames.com/ko/p/cassette-beasts-32c8e0",
+      "freePeriod": {
+        "start": "2025-12-27T16:00:00+00:00",
+        "end": "2025-12-28T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": null,
+        "epic": null,
+        "opencritic": null,
+        "steam": 95,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "ba12b3d0fde94f1cafec8e8d5dd3fe67",
+      "slug": "trine-classic-collection",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Trine Classic Collection",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-a3a3c03556904202b2127565527e967f",
+      "epicUrl": "https://store.epicgames.com/ko/bundles/trine-classic-collection",
+      "freePeriod": {
+        "start": "2025-11-09T16:54:42.367689+00:00",
+        "end": "2025-11-16T16:54:42.367689+00:00"
+      },
+      "genres": []
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Free games on Epic Games Store - Check current and upcoming free games in real time. Updated daily.">
+    <meta name="keywords" content="Epic Games, free games, Epic Store, PC games, free giveaway">
+    <meta name="author" content="Epic Free Games">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Epic Free Games">
+    <meta property="og:description" content="Epic Games Store free games - Current and upcoming free games">
+    <meta property="og:url" content="https://epicfree.example.com/">
+    <meta property="og:site_name" content="Epic Free Games">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Epic Free Games">
+    <meta name="twitter:description" content="Epic Games Store free games - Current and upcoming free games">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://epicfree.example.com/">
+
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#0078f2">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Epic Free">
+
+    <!-- PWA Links -->
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/icon-192x192.png">
+
+    <title>Epic Free Games</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Epic Free Games",
+        "url": "https://epicfree.example.com/",
+        "description": "Epic Games Store free games tracker",
+        "inLanguage": "en",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://epicfree.example.com/?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+        <div class="container">
+            <h1 class="logo">Epic Games Store Free Games</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- 필터 섹션 -->
+        <section class="filter-section">
+            <div class="filter-row">
+                <div class="search-group">
+                    <label for="searchInput">Search:</label>
+                    <div class="search-input-wrapper">
+                        <input type="text" id="searchInput" placeholder="Game title..." autocomplete="off">
+                        <button type="button" class="search-clear" id="searchClear" aria-label="Clear search">&times;</button>
+                    </div>
+                </div>
+                <div class="past-toggle hidden" id="pastToggleContainer">
+                    <label class="past-toggle__label">
+                        <input type="checkbox" id="pastToggle" class="past-toggle__checkbox">
+                        <span class="past-toggle__checkmark"></span>
+                        <span class="past-toggle__text">Include ended</span>
+                    </label>
+                </div>
+            </div>
+        </section>
+
+        <!-- 게임 그리드 -->
+        <section class="games-grid" id="gamesGrid">
+            <!-- 동적으로 게임 카드 렌더링 -->
+        </section>
+
+        <!-- 로딩 상태 -->
+        <div class="loading" id="loading">
+            <p>Loading games...</p>
+        </div>
+
+        <!-- 빈 상태 -->
+        <div class="empty-state hidden" id="emptyState">
+            <p>No games to display.</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Epic Games Store Free Games | Updated Daily</p>
+            <p class="update-time" id="updateTime"></p>
+            <p class="footer-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <span>|</span>
+                <a href="about.html">About</a>
+                <span>|</span>
+                <a href="contact.html">Contact</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/utils.js?v=4"></script>
+    <script src="js/main.js?v=4"></script>
+</body>
+</html>
