@@ -317,6 +317,13 @@ const RATING_CONFIGS = {
         scale: [0, 100],
         format: (val) => Math.round(val) + '%',
     },
+    igdb: {
+        icon: null,
+        label: 'IGDB',
+        fullName: 'IGDB Rating',
+        scale: [0, 100],
+        format: (val) => Math.round(val),
+    },
     opencritic: {
         icon: 'https://cdn.simpleicons.org/opencritic/ffffff',
         fullName: 'OpenCritic',
