@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-11T07:37:03.664447+00:00",
+  "updated": "2026-01-11T08:01:54.699559+00:00",
   "currentFree": [
     {
       "id": "b27e3b556f1048b9824c7196f32afceb",
@@ -14,10 +14,8 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
-        "metacritic": null,
-        "opencritic": null,
         "steam": 97,
+        "igdb": 78,
         "scoreColor": "green"
       }
     }
@@ -36,10 +34,9 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
         "metacritic": 71,
-        "opencritic": null,
         "steam": 83,
+        "igdb": 74,
         "scoreColor": "yellow"
       }
     },
@@ -56,10 +53,9 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
         "metacritic": 72,
-        "opencritic": null,
         "steam": 84,
+        "igdb": 71,
         "scoreColor": "yellow"
       }
     }
@@ -78,11 +74,9 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
-        "metacritic": null,
-        "opencritic": null,
         "steam": 80,
-        "scoreColor": "green"
+        "igdb": 66,
+        "scoreColor": "yellow"
       }
     },
     {
@@ -98,10 +92,9 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
         "metacritic": 85,
-        "opencritic": null,
         "steam": 82,
+        "igdb": 82,
         "scoreColor": "green"
       }
     },
@@ -118,10 +111,9 @@
       },
       "genres": [],
       "rating": {
-        "epic": null,
         "metacritic": 82,
-        "opencritic": null,
         "steam": 81,
+        "igdb": 86,
         "scoreColor": "green"
       }
     },
@@ -138,10 +130,8 @@
       },
       "genres": [],
       "rating": {
-        "metacritic": null,
-        "epic": null,
-        "opencritic": null,
         "steam": 94,
+        "igdb": 83,
         "scoreColor": "green"
       }
     },
@@ -158,11 +148,9 @@
       },
       "genres": [],
       "rating": {
-        "metacritic": null,
-        "epic": null,
-        "opencritic": null,
         "steam": 95,
-        "scoreColor": "green"
+        "igdb": 61,
+        "scoreColor": "yellow"
       }
     },
     {
