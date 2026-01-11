@@ -318,8 +318,7 @@ const RATING_CONFIGS = {
         format: (val) => Math.round(val) + '%',
     },
     igdb: {
-        icon: null,
-        label: 'IGDB',
+        icon: 'assets/igdb.svg',
         fullName: 'IGDB Rating',
         scale: [0, 100],
         format: (val) => Math.round(val),
