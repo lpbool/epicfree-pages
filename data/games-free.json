@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T07:00:51.011981+00:00",
+  "updated": "2026-01-15T08:58:40.876163+00:00",
   "currentFree": [
     {
       "id": "b27e3b556f1048b9824c7196f32afceb",
@@ -44,20 +44,14 @@
       "id": "9b99ffa5a53e4317824f4ccb2b6e68d2",
       "slug": "styx-shards-of-darkness-77c030",
       "namespace": "795fdebb6c6e497d98cee43057286743",
-      "title": "Styx: Shards of Darkness",
+      "title": "Styx: Shards of Darkness - Deluxe Edition",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/6ccdf6a1518741f0842177137adc00b0/styx-shards-of-darkness-1bh52.jpg",
       "epicUrl": "https://store.epicgames.com/ko/p/styx-shards-of-darkness-77c030",
       "freePeriod": {
         "start": "2026-01-15T16:00:00+00:00",
         "end": "2026-01-22T16:00:00+00:00"
       },
-      "genres": [],
-      "rating": {
-        "metacritic": 72,
-        "steam": 84,
-        "igdb": 71,
-        "scoreColor": "yellow"
-      }
+      "genres": []
     }
   ],
   "past": [
