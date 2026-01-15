@@ -1,26 +1,6 @@
 {
-  "updated": "2026-01-15T15:59:17.892475+00:00",
+  "updated": "2026-01-15T17:51:17.261522+00:00",
   "currentFree": [
-    {
-      "id": "b27e3b556f1048b9824c7196f32afceb",
-      "slug": "bloons-td-6-bf95a0",
-      "namespace": "6a8dfa6e441e4f2f9048a98776c6077d",
-      "title": "Bloons TD 6",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/bloons-td-6-bf95a0",
-      "freePeriod": {
-        "start": "2026-01-08T16:00:00+00:00",
-        "end": "2026-01-15T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 97,
-        "igdb": 78,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "ed109adce3c042f792f48d629221ac8b",
       "slug": "styx-master-of-shadows-4d9ab3",
@@ -54,7 +34,45 @@
       "genres": []
     }
   ],
+  "upcoming": [
+    {
+      "id": "3d10f32b87b94b769524cd44a12e634a",
+      "slug": "rustler-grand-theft-horse-21a7ca",
+      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
+      "title": "Rustler - Grand Theft Horse",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rustler-grand-theft-horse-21a7ca",
+      "freePeriod": {
+        "start": "2026-01-22T16:00:00+00:00",
+        "end": "2026-01-29T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 65,
+        "steam": 80,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "b27e3b556f1048b9824c7196f32afceb",
+      "slug": "bloons-td-6-bf95a0",
+      "namespace": "6a8dfa6e441e4f2f9048a98776c6077d",
+      "title": "Bloons TD 6",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/bloons-td-6-bf95a0",
+      "freePeriod": {
+        "start": "2026-01-08T16:00:00+00:00",
+        "end": "2026-01-15T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 97,
+        "igdb": 78,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "acd0b5048a0d43ec80909788a388964a",
       "slug": "wildgate-standard-edition-b886b5",
