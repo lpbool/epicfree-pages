@@ -1,6 +1,45 @@
 {
-  "updated": "2026-01-22T15:00:48.977451+00:00",
+  "updated": "2026-01-22T17:04:18.184979+00:00",
   "currentFree": [
+    {
+      "id": "3d10f32b87b94b769524cd44a12e634a",
+      "slug": "rustler-grand-theft-horse-21a7ca",
+      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
+      "title": "Rustler - Grand Theft Horse",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rustler-grand-theft-horse-21a7ca",
+      "freePeriod": {
+        "start": "2026-01-22T16:00:00+00:00",
+        "end": "2026-01-29T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 65,
+        "steam": 80,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "b916500f733b4973802bdb4fdb276515",
+      "slug": "definitely-not-fried-chicken-a30160",
+      "namespace": "8d8fb21ac3554271853582bad9d394d7",
+      "title": "Definitely Not Fried Chicken",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/definitely-not-fried-chicken-a30160",
+      "freePeriod": {
+        "start": "2026-01-29T16:00:00+00:00",
+        "end": "2026-02-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 73,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "ed109adce3c042f792f48d629221ac8b",
       "slug": "styx-master-of-shadows-4d9ab3",
@@ -32,29 +71,7 @@
         "end": "2026-01-22T16:00:00+00:00"
       },
       "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "3d10f32b87b94b769524cd44a12e634a",
-      "slug": "rustler-grand-theft-horse-21a7ca",
-      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
-      "title": "Rustler - Grand Theft Horse",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/rustler-grand-theft-horse-21a7ca",
-      "freePeriod": {
-        "start": "2026-01-22T16:00:00+00:00",
-        "end": "2026-01-29T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 65,
-        "steam": 80,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "past": [
+    },
     {
       "id": "b27e3b556f1048b9824c7196f32afceb",
       "slug": "bloons-td-6-bf95a0",
