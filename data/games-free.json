@@ -1,44 +1,6 @@
 {
-  "updated": "2026-02-05T15:34:17.094683+00:00",
+  "updated": "2026-02-05T16:37:34.708986+00:00",
   "currentFree": [
-    {
-      "id": "b916500f733b4973802bdb4fdb276515",
-      "slug": "definitely-not-fried-chicken-a30160",
-      "namespace": "8d8fb21ac3554271853582bad9d394d7",
-      "title": "Definitely Not Fried Chicken",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/definitely-not-fried-chicken-a30160",
-      "freePeriod": {
-        "start": "2026-01-29T16:00:00+00:00",
-        "end": "2026-02-05T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 73,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
-      "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
-      "namespace": "87375f89fc4c4c7a8c681cf21febee06",
-      "title": "The Darkside Detective A Fumble in the Dark",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-offer-501mw.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
-      "freePeriod": {
-        "start": "2026-02-12T16:00:00+00:00",
-        "end": "2026-02-19T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 84,
-        "steam": 96,
-        "igdb": 70,
-        "scoreColor": "green"
-      }
-    },
     {
       "id": "855a903d4f694353ac20f74321f6e400",
       "slug": "botany-manor-e7c456",
@@ -76,7 +38,63 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
+      "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "namespace": "87375f89fc4c4c7a8c681cf21febee06",
+      "title": "The Darkside Detective A Fumble in the Dark",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-offer-501mw.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "freePeriod": {
+        "start": "2026-02-12T16:00:00+00:00",
+        "end": "2026-02-19T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 84,
+        "steam": 96,
+        "igdb": 70,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "9da459f7c3984877bd5a12bdc3b6b3af",
+      "slug": "nobody-wants-to-die-fe21cd",
+      "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
+      "title": "Nobody Wants to Die",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/nobody-wants-to-die-fe21cd",
+      "freePeriod": {
+        "start": "2026-02-12T16:00:00+00:00",
+        "end": "2026-02-19T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 84,
+        "igdb": 78,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "b916500f733b4973802bdb4fdb276515",
+      "slug": "definitely-not-fried-chicken-a30160",
+      "namespace": "8d8fb21ac3554271853582bad9d394d7",
+      "title": "Definitely Not Fried Chicken",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/definitely-not-fried-chicken-a30160",
+      "freePeriod": {
+        "start": "2026-01-29T16:00:00+00:00",
+        "end": "2026-02-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 73,
+        "scoreColor": "yellow"
+      }
+    },
     {
       "id": "3d10f32b87b94b769524cd44a12e634a",
       "slug": "rustler-grand-theft-horse-21a7ca",
