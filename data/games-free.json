@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T14:00:32.783509+00:00",
+  "updated": "2026-02-05T15:34:17.094683+00:00",
   "currentFree": [
     {
       "id": "b916500f733b4973802bdb4fdb276515",
@@ -20,6 +20,25 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
+      "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "namespace": "87375f89fc4c4c7a8c681cf21febee06",
+      "title": "The Darkside Detective A Fumble in the Dark",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-offer-501mw.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "freePeriod": {
+        "start": "2026-02-12T16:00:00+00:00",
+        "end": "2026-02-19T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 84,
+        "steam": 96,
+        "igdb": 70,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "855a903d4f694353ac20f74321f6e400",
       "slug": "botany-manor-e7c456",
