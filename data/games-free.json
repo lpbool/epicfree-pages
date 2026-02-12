@@ -1,27 +1,6 @@
 {
-  "updated": "2026-02-12T15:43:21.001981+00:00",
+  "updated": "2026-02-12T16:48:31.091899+00:00",
   "currentFree": [
-    {
-      "id": "855a903d4f694353ac20f74321f6e400",
-      "slug": "botany-manor-e7c456",
-      "namespace": "969bbfac9e7840a986c1d594ccd55c01",
-      "title": "Botany Manor",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/botany-manor-e7c456",
-      "freePeriod": {
-        "start": "2026-02-05T16:00:00+00:00",
-        "end": "2026-02-12T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 82,
-        "steam": 94,
-        "igdb": 68,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
       "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
@@ -58,7 +37,9 @@
         "igdb": 78,
         "scoreColor": "green"
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "id": "d6111db209c34b068736ca33411c9209",
       "slug": "stalcraft-x-057c4a",
@@ -105,6 +86,25 @@
       "genres": [],
       "rating": {
         "steam": 93,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "855a903d4f694353ac20f74321f6e400",
+      "slug": "botany-manor-e7c456",
+      "namespace": "969bbfac9e7840a986c1d594ccd55c01",
+      "title": "Botany Manor",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/botany-manor-e7c456",
+      "freePeriod": {
+        "start": "2026-02-05T16:00:00+00:00",
+        "end": "2026-02-12T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 82,
+        "steam": 94,
+        "igdb": 68,
         "scoreColor": "green"
       }
     },
