@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T23:21:22.003513+00:00",
+  "updated": "2026-02-18T01:22:12.037246+00:00",
   "currentFree": [
     {
       "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
@@ -15,7 +15,6 @@
       "genres": [],
       "rating": {
         "metacritic": 84,
-        "steam": 96,
         "igdb": 70,
         "scoreColor": "green"
       }
@@ -33,7 +32,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 84,
         "igdb": 78,
         "scoreColor": "green"
       }
@@ -64,11 +62,7 @@
         "start": "2026-02-19T16:00:00+00:00",
         "end": "2026-02-26T16:00:00+00:00"
       },
-      "genres": [],
-      "rating": {
-        "steam": 98,
-        "scoreColor": "green"
-      }
+      "genres": []
     }
   ],
   "past": [
@@ -139,7 +133,6 @@
       "genres": [],
       "rating": {
         "metacritic": 65,
-        "steam": 80,
         "scoreColor": "yellow"
       }
     },
