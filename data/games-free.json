@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T14:03:53.926013+00:00",
+  "updated": "2026-02-19T15:40:21.920015+00:00",
   "currentFree": [
     {
       "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
@@ -40,6 +40,42 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "14bd618815aa43209a3613e5bc2c2274",
+      "slug": "boxes-lost-fragments-079041",
+      "namespace": "abc34708e5a0420287f52302582e3fec",
+      "title": "Boxes: Lost Fragments",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-dbecx.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/boxes-lost-fragments-079041",
+      "freePeriod": {
+        "start": "2026-02-26T16:00:00+00:00",
+        "end": "2026-03-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 92,
+        "igdb": 79,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "0c9ceba4cc60473f97510ab2514a4b6e",
+      "slug": "my-night-job-a416a6",
+      "namespace": "08e225ed73a2433198c025de20ec8173",
+      "title": "My Night Job",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2f10ff8aadbb413a9f5b26bae07977af/my-night-job-1i7ei.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/my-night-job-a416a6",
+      "freePeriod": {
+        "start": "2026-02-26T16:00:00+00:00",
+        "end": "2026-03-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 84,
+        "igdb": 70,
+        "scoreColor": "yellow"
+      }
+    },
     {
       "id": "06cd7ef2079646dcb6c5b04e04e1d676",
       "slug": "return-to-ash-dee3ff",
