@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T21:25:29.058480+00:00",
+  "updated": "2026-02-26T22:25:08.389828+00:00",
   "currentFree": [
     {
       "id": "14bd618815aa43209a3613e5bc2c2274",
@@ -211,7 +211,7 @@
       "genres": [],
       "rating": {
         "metacritic": 65,
-        "steam": 79,
+        "steam": 80,
         "scoreColor": "yellow"
       }
     },
