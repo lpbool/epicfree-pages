@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T14:04:36.442123+00:00",
+  "updated": "2026-02-26T15:45:03.922278+00:00",
   "currentFree": [
     {
       "id": "06cd7ef2079646dcb6c5b04e04e1d676",
@@ -33,6 +33,42 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "a9748abde1c94b66aae5250bb9fc5503",
+      "slug": "idle-champions-of-the-forgotten-realms",
+      "namespace": "7e508f543b05465abe3a935960eb70ac",
+      "title": "Idle Champions of the Forgotten Realms",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-134vi.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+      "freePeriod": {
+        "start": "2026-03-05T16:00:00+00:00",
+        "end": "2026-03-12T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 81,
+        "igdb": 79,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "68d9f0e261464ba284e10418d98532ea",
+      "slug": "turnip-boy-robs-a-bank-3fae0e",
+      "namespace": "263de26be57d43528bb9c7fdb133b9fe",
+      "title": "Turnip Boy Robs a Bank",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-167pk.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/turnip-boy-robs-a-bank-3fae0e",
+      "freePeriod": {
+        "start": "2026-03-05T16:00:00+00:00",
+        "end": "2026-03-12T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 95,
+        "igdb": 79,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "14bd618815aa43209a3613e5bc2c2274",
       "slug": "boxes-lost-fragments-079041",
