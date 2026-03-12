@@ -1,44 +1,6 @@
 {
-  "updated": "2026-03-12T14:45:31.528036+00:00",
+  "updated": "2026-03-12T15:51:08.866267+00:00",
   "currentFree": [
-    {
-      "id": "a9748abde1c94b66aae5250bb9fc5503",
-      "slug": "idle-champions-of-the-forgotten-realms",
-      "namespace": "7e508f543b05465abe3a935960eb70ac",
-      "title": "Idle Champions of the Forgotten Realms",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1n34h.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
-      "freePeriod": {
-        "start": "2026-03-05T16:00:00+00:00",
-        "end": "2026-03-12T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 81,
-        "igdb": 79,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "68d9f0e261464ba284e10418d98532ea",
-      "slug": "turnip-boy-robs-a-bank-3fae0e",
-      "namespace": "263de26be57d43528bb9c7fdb133b9fe",
-      "title": "Turnip Boy Robs a Bank",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-167pk.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/turnip-boy-robs-a-bank-3fae0e",
-      "freePeriod": {
-        "start": "2026-03-05T16:00:00+00:00",
-        "end": "2026-03-12T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 95,
-        "igdb": 79,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "c367569acede446995c5a3663e993446",
       "slug": "cozy-grove",
@@ -77,7 +39,76 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
+      "slug": "electrician-simulator-164e9f",
+      "namespace": "d400b874b09b4cd49d149358c67aa453",
+      "title": "Electrician Simulator",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/electrician-simulator-164e9f",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 80,
+        "igdb": 62,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "d3b29bd0dac74187970db0d79bf4b18e",
+      "slug": "world-of-warships",
+      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+      "title": "World of Warships — Epic Anniversary Tachibana Pack",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/world-of-warships",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
   "past": [
+    {
+      "id": "a9748abde1c94b66aae5250bb9fc5503",
+      "slug": "idle-champions-of-the-forgotten-realms",
+      "namespace": "7e508f543b05465abe3a935960eb70ac",
+      "title": "Idle Champions of the Forgotten Realms",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1n34h.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+      "freePeriod": {
+        "start": "2026-03-05T16:00:00+00:00",
+        "end": "2026-03-12T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 81,
+        "igdb": 79,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "68d9f0e261464ba284e10418d98532ea",
+      "slug": "turnip-boy-robs-a-bank-3fae0e",
+      "namespace": "263de26be57d43528bb9c7fdb133b9fe",
+      "title": "Turnip Boy Robs a Bank",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-167pk.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/turnip-boy-robs-a-bank-3fae0e",
+      "freePeriod": {
+        "start": "2026-03-05T16:00:00+00:00",
+        "end": "2026-03-12T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 95,
+        "igdb": 79,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "14bd618815aa43209a3613e5bc2c2274",
       "slug": "boxes-lost-fragments-079041",
