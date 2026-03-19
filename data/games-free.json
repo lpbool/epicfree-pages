@@ -1,6 +1,75 @@
 {
-  "updated": "2026-03-19T14:03:41.666226+00:00",
+  "updated": "2026-03-19T15:44:21.660401+00:00",
   "currentFree": [
+    {
+      "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
+      "slug": "electrician-simulator-164e9f",
+      "namespace": "d400b874b09b4cd49d149358c67aa453",
+      "title": "Electrician Simulator",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/electrician-simulator-164e9f",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 80,
+        "igdb": 62,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "d3b29bd0dac74187970db0d79bf4b18e",
+      "slug": "world-of-warships",
+      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+      "title": "World of Warships — Epic Anniversary Tachibana Pack",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/world-of-warships",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "5d15c054641543c9a535b3b4ac29e843",
+      "slug": "hyper-echelon-2d23ff",
+      "namespace": "5ffdf739f9b549ebba9caf3596e7c632",
+      "title": "Hyper Echelon",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/hyper-echelon-2d23ff",
+      "freePeriod": {
+        "start": "2026-03-26T15:00:00+00:00",
+        "end": "2026-04-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "d7b336a5c49f4a14b16359193caeb296",
+      "slug": "havendock-64983e",
+      "namespace": "dc6b31eb3a7540f28ccff83204aa1c3d",
+      "title": "Havendock",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/havendock-64983e",
+      "freePeriod": {
+        "start": "2026-03-26T15:00:00+00:00",
+        "end": "2026-04-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 83,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "c367569acede446995c5a3663e993446",
       "slug": "cozy-grove",
@@ -37,59 +106,7 @@
         "igdb": 70,
         "scoreColor": "yellow"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
-      "slug": "electrician-simulator-164e9f",
-      "namespace": "d400b874b09b4cd49d149358c67aa453",
-      "title": "Electrician Simulator",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/electrician-simulator-164e9f",
-      "freePeriod": {
-        "start": "2026-03-19T15:00:00+00:00",
-        "end": "2026-03-26T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 80,
-        "igdb": 62,
-        "scoreColor": "yellow"
-      }
     },
-    {
-      "id": "d7b336a5c49f4a14b16359193caeb296",
-      "slug": "havendock-64983e",
-      "namespace": "dc6b31eb3a7540f28ccff83204aa1c3d",
-      "title": "Havendock",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/havendock-64983e",
-      "freePeriod": {
-        "start": "2026-03-26T15:00:00+00:00",
-        "end": "2026-04-02T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 83,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "d3b29bd0dac74187970db0d79bf4b18e",
-      "slug": "world-of-warships",
-      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-      "title": "World of Warships — Epic Anniversary Tachibana Pack",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/world-of-warships",
-      "freePeriod": {
-        "start": "2026-03-19T15:00:00+00:00",
-        "end": "2026-03-26T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "past": [
     {
       "id": "a9748abde1c94b66aae5250bb9fc5503",
       "slug": "idle-champions-of-the-forgotten-realms",
