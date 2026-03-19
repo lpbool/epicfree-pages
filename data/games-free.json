@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T11:29:03.852247+00:00",
+  "updated": "2026-03-19T12:42:22.855205+00:00",
   "currentFree": [
     {
       "id": "c367569acede446995c5a3663e993446",
@@ -56,6 +56,23 @@
         "steam": 80,
         "igdb": 62,
         "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "d7b336a5c49f4a14b16359193caeb296",
+      "slug": "havendock-64983e",
+      "namespace": "dc6b31eb3a7540f28ccff83204aa1c3d",
+      "title": "Havendock",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/havendock-64983e",
+      "freePeriod": {
+        "start": "2026-03-26T15:00:00+00:00",
+        "end": "2026-04-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 83,
+        "scoreColor": "green"
       }
     },
     {
