@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T17:51:20.077851+00:00",
+  "updated": "2026-03-25T18:44:33.056114+00:00",
   "currentFree": [
     {
       "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
@@ -36,11 +36,11 @@
   "upcoming": [
     {
       "id": "5d15c054641543c9a535b3b4ac29e843",
-      "slug": "",
+      "slug": "hyper-echelon-2d23ff",
       "namespace": "5ffdf739f9b549ebba9caf3596e7c632",
       "title": "Hyper Echelon",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png",
-      "epicUrl": "",
+      "epicUrl": "https://store.epicgames.com/ko/p/hyper-echelon-2d23ff",
       "freePeriod": {
         "start": "2026-03-26T15:00:00+00:00",
         "end": "2026-04-02T15:00:00+00:00"
