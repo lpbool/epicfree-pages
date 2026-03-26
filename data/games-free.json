@@ -1,39 +1,6 @@
 {
-  "updated": "2026-03-26T12:55:16.291250+00:00",
+  "updated": "2026-03-26T16:04:26.250439+00:00",
   "currentFree": [
-    {
-      "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
-      "slug": "electrician-simulator-164e9f",
-      "namespace": "d400b874b09b4cd49d149358c67aa453",
-      "title": "Electrician Simulator",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/electrician-simulator-164e9f",
-      "freePeriod": {
-        "start": "2026-03-19T15:00:00+00:00",
-        "end": "2026-03-26T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 80,
-        "igdb": 62,
-        "scoreColor": "yellow"
-      }
-    },
-    {
-      "id": "d3b29bd0dac74187970db0d79bf4b18e",
-      "slug": "world-of-warships",
-      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-      "title": "World of Warships — Epic Anniversary Tachibana Pack",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/world-of-warships",
-      "freePeriod": {
-        "start": "2026-03-19T15:00:00+00:00",
-        "end": "2026-03-26T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "upcoming": [
     {
       "id": "5d15c054641543c9a535b3b4ac29e843",
       "slug": "hyper-echelon-2d23ff",
@@ -69,7 +36,59 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "c6479f31043943d0b1710cc5983f53c6",
+      "slug": "clone-drone-in-the-danger-zone-4daf6e",
+      "namespace": "59d27ef047494b999bf0b04ddc471a07",
+      "title": "Clone Drone in the Danger Zone",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/clone-drone-in-the-danger-zone-4daf6e",
+      "freePeriod": {
+        "start": "2026-04-02T15:00:00+00:00",
+        "end": "2026-04-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 82,
+        "steam": 96,
+        "igdb": 72,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
+      "slug": "electrician-simulator-164e9f",
+      "namespace": "d400b874b09b4cd49d149358c67aa453",
+      "title": "Electrician Simulator",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/electrician-simulator-164e9f",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 80,
+        "igdb": 62,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "d3b29bd0dac74187970db0d79bf4b18e",
+      "slug": "world-of-warships",
+      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+      "title": "World of Warships — Epic Anniversary Tachibana Pack",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/world-of-warships",
+      "freePeriod": {
+        "start": "2026-03-19T15:00:00+00:00",
+        "end": "2026-03-26T15:00:00+00:00"
+      },
+      "genres": []
+    },
     {
       "id": "c367569acede446995c5a3663e993446",
       "slug": "cozy-grove",
