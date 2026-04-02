@@ -1,6 +1,55 @@
 {
-  "updated": "2026-04-02T14:18:21.303569+00:00",
+  "updated": "2026-04-02T15:52:53.347173+00:00",
   "currentFree": [
+    {
+      "id": "c6479f31043943d0b1710cc5983f53c6",
+      "slug": "clone-drone-in-the-danger-zone-4daf6e",
+      "namespace": "59d27ef047494b999bf0b04ddc471a07",
+      "title": "Clone Drone in the Danger Zone",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/clone-drone-in-the-danger-zone-4daf6e",
+      "freePeriod": {
+        "start": "2026-04-02T15:00:00+00:00",
+        "end": "2026-04-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 82,
+        "steam": 96,
+        "igdb": 72,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "9f67865fcf0749a58f4d35827473266f",
+      "slug": "tomak-save-the-earth-regeneration-c1207c",
+      "namespace": "7de6896ed120435fba9433d2732dadb4",
+      "title": "TOMAK: Save the Earth Regeneration",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      "freePeriod": {
+        "start": "2026-04-02T00:00:00+00:00",
+        "end": "2026-04-16T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "bc9b3091841840ad974ff525873d48c1",
+      "slug": "propsumo-ca8bd7",
+      "namespace": "a01818d165284996896acce560c669fa",
+      "title": "Prop Sumo",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
+      "freePeriod": {
+        "start": "2026-04-09T15:00:00+00:00",
+        "end": "2026-04-16T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "past": [
     {
       "id": "5d15c054641543c9a535b3b4ac29e843",
       "slug": "hyper-echelon-2d23ff",
@@ -35,55 +84,6 @@
         "scoreColor": "green"
       }
     },
-    {
-      "id": "9f67865fcf0749a58f4d35827473266f",
-      "slug": "tomak-save-the-earth-regeneration-c1207c",
-      "namespace": "7de6896ed120435fba9433d2732dadb4",
-      "title": "TOMAK: Save the Earth Regeneration",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
-      "freePeriod": {
-        "start": "2026-04-02T00:00:00+00:00",
-        "end": "2026-04-16T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "c6479f31043943d0b1710cc5983f53c6",
-      "slug": "clone-drone-in-the-danger-zone-4daf6e",
-      "namespace": "59d27ef047494b999bf0b04ddc471a07",
-      "title": "Clone Drone in the Danger Zone",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/clone-drone-in-the-danger-zone-4daf6e",
-      "freePeriod": {
-        "start": "2026-04-02T15:00:00+00:00",
-        "end": "2026-04-09T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 82,
-        "steam": 96,
-        "igdb": 72,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "bc9b3091841840ad974ff525873d48c1",
-      "slug": "propsumo-ca8bd7",
-      "namespace": "a01818d165284996896acce560c669fa",
-      "title": "Prop Sumo",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
-      "freePeriod": {
-        "start": "2026-04-09T15:00:00+00:00",
-        "end": "2026-04-16T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "past": [
     {
       "id": "b3d56c3e27fc4816bf6cc0cefecd4948",
       "slug": "electrician-simulator-164e9f",
