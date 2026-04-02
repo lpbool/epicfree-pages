@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T23:29:35.247550+00:00",
+  "updated": "2026-04-02T01:25:47.572051+00:00",
   "currentFree": [
     {
       "id": "5d15c054641543c9a535b3b4ac29e843",
@@ -34,6 +34,19 @@
         "steam": 83,
         "scoreColor": "green"
       }
+    },
+    {
+      "id": "9f67865fcf0749a58f4d35827473266f",
+      "slug": "tomak-save-the-earth-regeneration-c1207c",
+      "namespace": "7de6896ed120435fba9433d2732dadb4",
+      "title": "TOMAK : Save the Earth Regeneration",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      "freePeriod": {
+        "start": "2026-04-02T00:00:00+00:00",
+        "end": "2026-04-16T15:00:00+00:00"
+      },
+      "genres": []
     }
   ],
   "upcoming": [
