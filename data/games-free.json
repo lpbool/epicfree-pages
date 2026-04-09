@@ -1,6 +1,53 @@
 {
-  "updated": "2026-04-09T13:03:19.274373+00:00",
+  "updated": "2026-04-09T15:14:19.368202+00:00",
   "currentFree": [
+    {
+      "id": "9f67865fcf0749a58f4d35827473266f",
+      "slug": "tomak-save-the-earth-regeneration-c1207c",
+      "namespace": "7de6896ed120435fba9433d2732dadb4",
+      "title": "TOMAK: Save the Earth Regeneration",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      "freePeriod": {
+        "start": "2026-04-02T00:00:00+00:00",
+        "end": "2026-04-16T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "bc9b3091841840ad974ff525873d48c1",
+      "slug": "propsumo-ca8bd7",
+      "namespace": "a01818d165284996896acce560c669fa",
+      "title": "Prop Sumo",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
+      "freePeriod": {
+        "start": "2026-04-09T15:00:00+00:00",
+        "end": "2026-04-16T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "3d11f228c8a442318bc17abf13f7db3b",
+      "slug": "the-stone-of-madness-7b22f3",
+      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
+      "title": "The Stone of Madness",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-stone-of-madness-7b22f3",
+      "freePeriod": {
+        "start": "2026-04-16T15:00:00+00:00",
+        "end": "2026-04-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 77,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "c6479f31043943d0b1710cc5983f53c6",
       "slug": "clone-drone-in-the-danger-zone-4daf6e",
@@ -20,36 +67,6 @@
         "scoreColor": "green"
       }
     },
-    {
-      "id": "9f67865fcf0749a58f4d35827473266f",
-      "slug": "tomak-save-the-earth-regeneration-c1207c",
-      "namespace": "7de6896ed120435fba9433d2732dadb4",
-      "title": "TOMAK: Save the Earth Regeneration",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
-      "freePeriod": {
-        "start": "2026-04-02T00:00:00+00:00",
-        "end": "2026-04-16T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "bc9b3091841840ad974ff525873d48c1",
-      "slug": "propsumo-ca8bd7",
-      "namespace": "a01818d165284996896acce560c669fa",
-      "title": "Prop Sumo",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
-      "freePeriod": {
-        "start": "2026-04-09T15:00:00+00:00",
-        "end": "2026-04-16T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "past": [
     {
       "id": "5d15c054641543c9a535b3b4ac29e843",
       "slug": "hyper-echelon-2d23ff",
