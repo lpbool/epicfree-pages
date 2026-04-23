@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T11:54:59.003900+00:00",
+  "updated": "2026-04-23T13:05:05.199279+00:00",
   "currentFree": [
     {
       "id": "3d11f228c8a442318bc17abf13f7db3b",
@@ -20,6 +20,23 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "0623017cf9f341efbe07557f46beb4e8",
+      "slug": "firestone-online-idle-rpg-bfd04b",
+      "namespace": "bda8d2133655435982b9118972792328",
+      "title": "Firestone Online Idle RPG",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-101lx.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "freePeriod": {
+        "start": "2026-04-30T15:00:00+00:00",
+        "end": "2026-05-07T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 47,
+        "scoreColor": "red"
+      }
+    },
     {
       "id": "9e7d6a034aaf450dacda4b51695d113a",
       "slug": "doomblade-afdf9a",
