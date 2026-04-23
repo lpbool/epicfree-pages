@@ -1,42 +1,6 @@
 {
-  "updated": "2026-04-23T13:05:05.199279+00:00",
+  "updated": "2026-04-23T15:45:10.937240+00:00",
   "currentFree": [
-    {
-      "id": "3d11f228c8a442318bc17abf13f7db3b",
-      "slug": "the-stone-of-madness-7b22f3",
-      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
-      "title": "The Stone of Madness",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/the-stone-of-madness-7b22f3",
-      "freePeriod": {
-        "start": "2026-04-16T15:00:00+00:00",
-        "end": "2026-04-23T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 77,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "0623017cf9f341efbe07557f46beb4e8",
-      "slug": "firestone-online-idle-rpg-bfd04b",
-      "namespace": "bda8d2133655435982b9118972792328",
-      "title": "Firestone Online Idle RPG",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-101lx.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
-      "freePeriod": {
-        "start": "2026-04-30T15:00:00+00:00",
-        "end": "2026-05-07T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "igdb": 47,
-        "scoreColor": "red"
-      }
-    },
     {
       "id": "9e7d6a034aaf450dacda4b51695d113a",
       "slug": "doomblade-afdf9a",
@@ -56,7 +20,60 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "0623017cf9f341efbe07557f46beb4e8",
+      "slug": "firestone-online-idle-rpg-bfd04b",
+      "namespace": "bda8d2133655435982b9118972792328",
+      "title": "Firestone Online Idle RPG",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "freePeriod": {
+        "start": "2026-04-30T15:00:00+00:00",
+        "end": "2026-05-07T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 47,
+        "scoreColor": "red"
+      }
+    },
+    {
+      "id": "102da1ac6e864d7f84889f2c0a107ee2",
+      "slug": "oddsparks-58440c",
+      "namespace": "77c83b36cd1047f7aceeef2e5f84ab85",
+      "title": "Oddsparks: An Automation Adventure",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/oddsparks-58440c",
+      "freePeriod": {
+        "start": "2026-04-30T15:00:00+00:00",
+        "end": "2026-05-07T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 83,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "3d11f228c8a442318bc17abf13f7db3b",
+      "slug": "the-stone-of-madness-7b22f3",
+      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
+      "title": "The Stone of Madness",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-stone-of-madness-7b22f3",
+      "freePeriod": {
+        "start": "2026-04-16T15:00:00+00:00",
+        "end": "2026-04-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 77,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "9f67865fcf0749a58f4d35827473266f",
       "slug": "tomak-save-the-earth-regeneration-c1207c",
