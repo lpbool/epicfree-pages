@@ -1,32 +1,12 @@
 {
-  "updated": "2026-04-30T12:09:21.823971+00:00",
+  "updated": "2026-04-30T15:01:14.906433+00:00",
   "currentFree": [
-    {
-      "id": "9e7d6a034aaf450dacda4b51695d113a",
-      "slug": "doomblade-afdf9a",
-      "namespace": "12a3a68913864eaa8420e575eb6dbd42",
-      "title": "DOOMBLADE",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/doomblade-afdf9a",
-      "freePeriod": {
-        "start": "2026-04-23T15:00:00+00:00",
-        "end": "2026-04-30T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 83,
-        "steam": 83,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "0623017cf9f341efbe07557f46beb4e8",
       "slug": "firestone-online-idle-rpg-bfd04b",
       "namespace": "bda8d2133655435982b9118972792328",
       "title": "Firestone Online Idle RPG",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
       "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
       "freePeriod": {
         "start": "2026-04-30T15:00:00+00:00",
@@ -56,7 +36,62 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "4fb95c3f11754061b2b1a94e60d848bd",
+      "slug": "arranger-a-rolepuzzling-adventure-dbfde7",
+      "namespace": "2df8b055a5674c8e9211fc51f8efd210",
+      "title": "Arranger: A Role-Puzzling Adventure",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/arranger-a-rolepuzzling-adventure-dbfde7",
+      "freePeriod": {
+        "start": "2026-05-07T15:00:00+00:00",
+        "end": "2026-05-14T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 82,
+        "steam": 92,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "40980262fdb24c149094f3febfe84cb6",
+      "slug": "trash-goblin-cd5fd7",
+      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+      "title": "Trash Goblin",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/trash-goblin-cd5fd7",
+      "freePeriod": {
+        "start": "2026-05-07T15:00:00+00:00",
+        "end": "2026-05-14T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "9e7d6a034aaf450dacda4b51695d113a",
+      "slug": "doomblade-afdf9a",
+      "namespace": "12a3a68913864eaa8420e575eb6dbd42",
+      "title": "DOOMBLADE",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/doomblade-afdf9a",
+      "freePeriod": {
+        "start": "2026-04-23T15:00:00+00:00",
+        "end": "2026-04-30T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "steam": 83,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "3d11f228c8a442318bc17abf13f7db3b",
       "slug": "the-stone-of-madness-7b22f3",
