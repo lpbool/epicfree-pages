@@ -1,42 +1,6 @@
 {
-  "updated": "2026-05-07T13:44:05.862702+00:00",
+  "updated": "2026-05-07T16:00:14.883481+00:00",
   "currentFree": [
-    {
-      "id": "0623017cf9f341efbe07557f46beb4e8",
-      "slug": "firestone-online-idle-rpg-bfd04b",
-      "namespace": "bda8d2133655435982b9118972792328",
-      "title": "Firestone Online Idle RPG",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
-      "freePeriod": {
-        "start": "2026-04-30T15:00:00+00:00",
-        "end": "2026-05-07T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "igdb": 47,
-        "scoreColor": "red"
-      }
-    },
-    {
-      "id": "102da1ac6e864d7f84889f2c0a107ee2",
-      "slug": "oddsparks-58440c",
-      "namespace": "77c83b36cd1047f7aceeef2e5f84ab85",
-      "title": "Oddsparks: An Automation Adventure",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/oddsparks-58440c",
-      "freePeriod": {
-        "start": "2026-04-30T15:00:00+00:00",
-        "end": "2026-05-07T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 83,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "4fb95c3f11754061b2b1a94e60d848bd",
       "slug": "arranger-a-rolepuzzling-adventure-dbfde7",
@@ -73,7 +37,69 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "73a4416d5cdb42f682d504fdf48e987b",
+      "slug": "megasale-mysterygame-2026-02",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game 2",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026-02",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "190cb955f17f48dcb8576aa8288c887f",
+      "slug": "megasale-mysterygame-2026",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game 1",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
   "past": [
+    {
+      "id": "0623017cf9f341efbe07557f46beb4e8",
+      "slug": "firestone-online-idle-rpg-bfd04b",
+      "namespace": "bda8d2133655435982b9118972792328",
+      "title": "Firestone Online Idle RPG",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "freePeriod": {
+        "start": "2026-04-30T15:00:00+00:00",
+        "end": "2026-05-07T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 47,
+        "scoreColor": "red"
+      }
+    },
+    {
+      "id": "102da1ac6e864d7f84889f2c0a107ee2",
+      "slug": "oddsparks-58440c",
+      "namespace": "77c83b36cd1047f7aceeef2e5f84ab85",
+      "title": "Oddsparks: An Automation Adventure",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/oddsparks-58440c",
+      "freePeriod": {
+        "start": "2026-04-30T15:00:00+00:00",
+        "end": "2026-05-07T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 83,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "9e7d6a034aaf450dacda4b51695d113a",
       "slug": "doomblade-afdf9a",
