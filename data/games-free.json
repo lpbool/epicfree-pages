@@ -1,6 +1,66 @@
 {
-  "updated": "2026-05-14T13:49:10.410165+00:00",
+  "updated": "2026-05-14T16:06:02.607987+00:00",
   "currentFree": [
+    {
+      "id": "73a4416d5cdb42f682d504fdf48e987b",
+      "slug": "the-telltale-batman",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "The Telltale Batman Shadows Edition",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-a85c5724ba30499ba5a81a9f2125e5d4",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-telltale-batman",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 77,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "190cb955f17f48dcb8576aa8288c887f",
+      "slug": "sunderfolk-standard-edition-83c05e",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Sunderfolk - Standard Edition",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-a500d7236c364c0bb373e3b6b9a6ee8b",
+      "epicUrl": "https://store.epicgames.com/ko/p/sunderfolk-standard-edition-83c05e",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "cd37ebd7ce804df9b51b84578e631b8a",
+      "slug": "megasale-mysterygame-2026-week21-game2",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game Week 21 Game 2",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026-week21-game2",
+      "freePeriod": {
+        "start": "2026-05-21T15:00:00+00:00",
+        "end": "2026-05-28T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "9e2567e57e61458686d53f5aeaf1e2e0",
+      "slug": "megasale-mysterygame-2026-week21-game1",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game Week 21 Game 1",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026-week21-game1",
+      "freePeriod": {
+        "start": "2026-05-21T15:00:00+00:00",
+        "end": "2026-05-28T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "past": [
     {
       "id": "4fb95c3f11754061b2b1a94e60d848bd",
       "slug": "arranger-a-rolepuzzling-adventure-dbfde7",
@@ -37,37 +97,7 @@
         "igdb": 89,
         "scoreColor": "green"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "73a4416d5cdb42f682d504fdf48e987b",
-      "slug": "megasale-mysterygame-2026-02",
-      "namespace": "d5241c76f178492ea1540fce45616757",
-      "title": "Mystery Game 2",
-      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
-      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026-02",
-      "freePeriod": {
-        "start": "2026-05-14T15:00:00+00:00",
-        "end": "2026-05-21T15:00:00+00:00"
-      },
-      "genres": []
     },
-    {
-      "id": "190cb955f17f48dcb8576aa8288c887f",
-      "slug": "megasale-mysterygame-2026",
-      "namespace": "d5241c76f178492ea1540fce45616757",
-      "title": "Mystery Game 1",
-      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
-      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026",
-      "freePeriod": {
-        "start": "2026-05-14T15:00:00+00:00",
-        "end": "2026-05-21T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "past": [
     {
       "id": "0623017cf9f341efbe07557f46beb4e8",
       "slug": "firestone-online-idle-rpg-bfd04b",
