@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T07:00:16.895048+00:00",
+  "updated": "2026-06-10T10:58:44.859656+00:00",
   "currentFree": [
     {
       "id": "a6a2d59fa54946dbbf16f14730c2e5f0",
@@ -39,6 +39,43 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "ea365d314ecf4224a5f58d2d7430e7aa",
+      "slug": "citizen-sleeper-944858",
+      "namespace": "e4ef0c8c500a41eaa57c53d32410595d",
+      "title": "Citizen Sleeper",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/citizen-sleeper-944858",
+      "freePeriod": {
+        "start": "2026-06-18T15:00:00+00:00",
+        "end": "2026-06-25T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 82,
+        "steam": 93,
+        "igdb": 81,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "aee7ec395d054078a48d867849e2a550",
+      "slug": "robobeat-5f084b",
+      "namespace": "9704b88f02244a60b9b0ab81e0e31389",
+      "title": "ROBOBEAT",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/robobeat-5f084b",
+      "freePeriod": {
+        "start": "2026-06-18T15:00:00+00:00",
+        "end": "2026-06-25T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "steam": 94,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "7f0ab2828f9743d0abc6612a11222fdf",
       "slug": "the-ouroboros-king-e1d547",
