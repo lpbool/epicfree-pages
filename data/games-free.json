@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T06:02:14.728442+00:00",
+  "updated": "2026-06-17T11:28:45.904777+00:00",
   "currentFree": [
     {
       "id": "7f0ab2828f9743d0abc6612a11222fdf",
@@ -67,6 +67,25 @@
       "rating": {
         "metacritic": 83,
         "steam": 94,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "bbccf66ad70e492d812e031e17f93b9d",
+      "slug": "voidwrought-ce8f4b",
+      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
+      "title": "Voidwrought",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 76,
+        "steam": 78,
+        "igdb": 50,
         "scoreColor": "green"
       }
     }
