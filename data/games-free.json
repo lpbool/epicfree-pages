@@ -1,38 +1,6 @@
 {
-  "updated": "2026-06-18T13:57:30.857072+00:00",
+  "updated": "2026-06-18T16:54:16.784823+00:00",
   "currentFree": [
-    {
-      "id": "7f0ab2828f9743d0abc6612a11222fdf",
-      "slug": "the-ouroboros-king-e1d547",
-      "namespace": "b002ccbe10f946f082a63bf85fa30558",
-      "title": "The Ouroboros King",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/the-ouroboros-king-e1d547",
-      "freePeriod": {
-        "start": "2026-06-11T15:00:00+00:00",
-        "end": "2026-06-18T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 81,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "eb6ae87e73d94d2c96bab3c4da4dd3de",
-      "slug": "warhammer-40k-speed-freeks-12879c",
-      "namespace": "e64225d40c214f32a71ccf6a7a612d6b",
-      "title": "Warhammer 40K Speed Freeks",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/warhammer-40k-speed-freeks-12879c",
-      "freePeriod": {
-        "start": "2026-06-11T15:00:00+00:00",
-        "end": "2026-06-18T15:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "upcoming": [
     {
       "id": "ea365d314ecf4224a5f58d2d7430e7aa",
       "slug": "citizen-sleeper-944858",
@@ -69,6 +37,26 @@
         "steam": 94,
         "scoreColor": "green"
       }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "4ec50a302f1449b3bf706a199c333ab8",
+      "slug": "rollercoaster-tycoon-3-complete-edition",
+      "namespace": "f01b3e0178d448f0b93911e292d8e614",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
     },
     {
       "id": "bbccf66ad70e492d812e031e17f93b9d",
@@ -91,6 +79,36 @@
     }
   ],
   "past": [
+    {
+      "id": "7f0ab2828f9743d0abc6612a11222fdf",
+      "slug": "the-ouroboros-king-e1d547",
+      "namespace": "b002ccbe10f946f082a63bf85fa30558",
+      "title": "The Ouroboros King",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/the-ouroboros-king-e1d547",
+      "freePeriod": {
+        "start": "2026-06-11T15:00:00+00:00",
+        "end": "2026-06-18T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 81,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "eb6ae87e73d94d2c96bab3c4da4dd3de",
+      "slug": "warhammer-40k-speed-freeks-12879c",
+      "namespace": "e64225d40c214f32a71ccf6a7a612d6b",
+      "title": "Warhammer 40K Speed Freeks",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/warhammer-40k-speed-freeks-12879c",
+      "freePeriod": {
+        "start": "2026-06-11T15:00:00+00:00",
+        "end": "2026-06-18T15:00:00+00:00"
+      },
+      "genres": []
+    },
     {
       "id": "a6a2d59fa54946dbbf16f14730c2e5f0",
       "slug": "rogue-waters-9764d6",
