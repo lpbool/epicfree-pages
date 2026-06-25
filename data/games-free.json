@@ -1,6 +1,83 @@
 {
-  "updated": "2026-06-25T13:11:45.783235+00:00",
+  "updated": "2026-06-25T16:16:51.029085+00:00",
   "currentFree": [
+    {
+      "id": "4ec50a302f1449b3bf706a199c333ab8",
+      "slug": "rollercoaster-tycoon-3-complete-edition",
+      "namespace": "f01b3e0178d448f0b93911e292d8e614",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "bbccf66ad70e492d812e031e17f93b9d",
+      "slug": "voidwrought-ce8f4b",
+      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
+      "title": "Voidwrought",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 76,
+        "steam": 78,
+        "igdb": 50,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "9bf3d3188d1e498095bc23c0955538d9",
+      "slug": "river-city-girls-2-77af3a",
+      "namespace": "973ce75835994a35ab386d56ed2dffa3",
+      "title": "River City Girls 2",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/river-city-girls-2-77af3a",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 86,
+        "igdb": 84,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "4ef54d5829b04656902dfa1f29b3b732",
+      "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
+      "namespace": "2e13c6ccfb3147ec8c67985160c48296",
+      "title": "I Have No Mouth, and I Must Scream",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 89,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "ea365d314ecf4224a5f58d2d7430e7aa",
       "slug": "citizen-sleeper-944858",
@@ -37,48 +114,7 @@
         "steam": 94,
         "scoreColor": "green"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "4ec50a302f1449b3bf706a199c333ab8",
-      "slug": "rollercoaster-tycoon-3-complete-edition",
-      "namespace": "f01b3e0178d448f0b93911e292d8e614",
-      "title": "RollerCoaster Tycoon 3 Complete Edition",
-      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
-      "freePeriod": {
-        "start": "2026-06-25T15:00:00+00:00",
-        "end": "2026-07-02T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 87,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
     },
-    {
-      "id": "bbccf66ad70e492d812e031e17f93b9d",
-      "slug": "voidwrought-ce8f4b",
-      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
-      "title": "Voidwrought",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
-      "freePeriod": {
-        "start": "2026-06-25T15:00:00+00:00",
-        "end": "2026-07-02T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 76,
-        "steam": 78,
-        "igdb": 50,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "past": [
     {
       "id": "7f0ab2828f9743d0abc6612a11222fdf",
       "slug": "the-ouroboros-king-e1d547",
