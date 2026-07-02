@@ -1,63 +1,6 @@
 {
-  "updated": "2026-07-02T12:03:32.432812+00:00",
+  "updated": "2026-07-02T15:06:33.443034+00:00",
   "currentFree": [
-    {
-      "id": "4ec50a302f1449b3bf706a199c333ab8",
-      "slug": "rollercoaster-tycoon-3-complete-edition",
-      "namespace": "f01b3e0178d448f0b93911e292d8e614",
-      "title": "RollerCoaster Tycoon 3 Complete Edition",
-      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
-      "freePeriod": {
-        "start": "2026-06-25T15:00:00+00:00",
-        "end": "2026-07-02T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 88,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "bbccf66ad70e492d812e031e17f93b9d",
-      "slug": "voidwrought-ce8f4b",
-      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
-      "title": "Voidwrought",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
-      "freePeriod": {
-        "start": "2026-06-25T15:00:00+00:00",
-        "end": "2026-07-02T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 76,
-        "steam": 78,
-        "igdb": 50,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "e5da2c017d4d4afab9f4c56525b66100",
-      "slug": "nova-lands-4d1788",
-      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
-      "title": "Nova Lands",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
-      "freePeriod": {
-        "start": "2026-07-09T15:00:00+00:00",
-        "end": "2026-07-16T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 91,
-        "igdb": 77,
-        "scoreColor": "green"
-      }
-    },
     {
       "id": "9bf3d3188d1e498095bc23c0955538d9",
       "slug": "river-city-girls-2-77af3a",
@@ -95,7 +38,81 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "e5da2c017d4d4afab9f4c56525b66100",
+      "slug": "nova-lands-4d1788",
+      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
+      "title": "Nova Lands",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 91,
+        "igdb": 77,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "f247e0af293645bda266fa9957d82d62",
+      "slug": "tattoo-tycoon-b4352c",
+      "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
+      "title": "Tattoo Tycoon",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 63,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "4ec50a302f1449b3bf706a199c333ab8",
+      "slug": "rollercoaster-tycoon-3-complete-edition",
+      "namespace": "f01b3e0178d448f0b93911e292d8e614",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "bbccf66ad70e492d812e031e17f93b9d",
+      "slug": "voidwrought-ce8f4b",
+      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
+      "title": "Voidwrought",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
+      "freePeriod": {
+        "start": "2026-06-25T15:00:00+00:00",
+        "end": "2026-07-02T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 76,
+        "steam": 78,
+        "igdb": 50,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "ea365d314ecf4224a5f58d2d7430e7aa",
       "slug": "citizen-sleeper-944858",
