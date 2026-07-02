@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T17:27:57.314085+00:00",
+  "updated": "2026-07-02T19:11:07.206066+00:00",
   "currentFree": [
     {
       "id": "9bf3d3188d1e498095bc23c0955538d9",
@@ -89,7 +89,7 @@
       },
       "genres": [],
       "rating": {
-        "steam": 88,
+        "steam": 87,
         "igdb": 80,
         "scoreColor": "green"
       }
