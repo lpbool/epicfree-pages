@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T12:14:26.040756+00:00",
+  "updated": "2026-07-08T15:10:25.468330+00:00",
   "currentFree": [
     {
       "id": "9bf3d3188d1e498095bc23c0955538d9",
@@ -72,6 +72,24 @@
       "rating": {
         "steam": 61,
         "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "371545146a944478ad5a87f9b581ac29",
+      "slug": "echo-generation-midnight-edition-069026",
+      "namespace": "2c198b4055e64df698944727dbb561ea",
+      "title": "Echo Generation: Midnight Edition",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/echo-generation-midnight-edition-069026",
+      "freePeriod": {
+        "start": "2026-07-16T15:00:00+00:00",
+        "end": "2026-07-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 76,
+        "steam": 93,
+        "scoreColor": "green"
       }
     }
   ],
