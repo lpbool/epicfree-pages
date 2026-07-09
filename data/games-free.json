@@ -1,6 +1,82 @@
 {
-  "updated": "2026-07-09T14:34:09.841962+00:00",
+  "updated": "2026-07-09T17:12:44.438659+00:00",
   "currentFree": [
+    {
+      "id": "e5da2c017d4d4afab9f4c56525b66100",
+      "slug": "nova-lands-4d1788",
+      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
+      "title": "Nova Lands",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 91,
+        "igdb": 77,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "f247e0af293645bda266fa9957d82d62",
+      "slug": "tattoo-tycoon-b4352c",
+      "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
+      "title": "Tattoo Tycoon",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 61,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
+      "slug": "luto-0a4ab3",
+      "namespace": "9f3ffc77b7264d63859bfd9bc935c9f8",
+      "title": "Luto",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/luto-0a4ab3",
+      "freePeriod": {
+        "start": "2026-07-16T15:00:00+00:00",
+        "end": "2026-07-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "steam": 85,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "371545146a944478ad5a87f9b581ac29",
+      "slug": "echo-generation-midnight-edition-069026",
+      "namespace": "2c198b4055e64df698944727dbb561ea",
+      "title": "Echo Generation: Midnight Edition",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/echo-generation-midnight-edition-069026",
+      "freePeriod": {
+        "start": "2026-07-16T15:00:00+00:00",
+        "end": "2026-07-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 76,
+        "steam": 93,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "9bf3d3188d1e498095bc23c0955538d9",
       "slug": "river-city-girls-2-77af3a",
@@ -36,83 +112,7 @@
         "igdb": 80,
         "scoreColor": "green"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "e5da2c017d4d4afab9f4c56525b66100",
-      "slug": "nova-lands-4d1788",
-      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
-      "title": "Nova Lands",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
-      "freePeriod": {
-        "start": "2026-07-09T15:00:00+00:00",
-        "end": "2026-07-16T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 91,
-        "igdb": 77,
-        "scoreColor": "green"
-      }
     },
-    {
-      "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
-      "slug": "luto-0a4ab3",
-      "namespace": "9f3ffc77b7264d63859bfd9bc935c9f8",
-      "title": "Luto",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/luto-0a4ab3",
-      "freePeriod": {
-        "start": "2026-07-16T15:00:00+00:00",
-        "end": "2026-07-23T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 83,
-        "steam": 85,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "f247e0af293645bda266fa9957d82d62",
-      "slug": "tattoo-tycoon-b4352c",
-      "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
-      "title": "Tattoo Tycoon",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
-      "freePeriod": {
-        "start": "2026-07-09T15:00:00+00:00",
-        "end": "2026-07-16T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 61,
-        "scoreColor": "yellow"
-      }
-    },
-    {
-      "id": "371545146a944478ad5a87f9b581ac29",
-      "slug": "echo-generation-midnight-edition-069026",
-      "namespace": "2c198b4055e64df698944727dbb561ea",
-      "title": "Echo Generation: Midnight Edition",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/echo-generation-midnight-edition-069026",
-      "freePeriod": {
-        "start": "2026-07-16T15:00:00+00:00",
-        "end": "2026-07-23T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 76,
-        "steam": 93,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "past": [
     {
       "id": "4ec50a302f1449b3bf706a199c333ab8",
       "slug": "rollercoaster-tycoon-3-complete-edition",
