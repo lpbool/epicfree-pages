@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:52:04.679894+00:00",
+  "updated": "2026-07-15T11:22:44.218817+00:00",
   "currentFree": [
     {
       "id": "e5da2c017d4d4afab9f4c56525b66100",
@@ -38,6 +38,23 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "223c59e227e74e079a1bbe5a234b896f",
+      "slug": "foretales-d6c5bd",
+      "namespace": "c5730ad3d7004a65a472a7699b88008a",
+      "title": "Foretales",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/foretales-d6c5bd",
+      "freePeriod": {
+        "start": "2026-07-23T15:00:00+00:00",
+        "end": "2026-07-30T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 87,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
       "slug": "luto-0a4ab3",
