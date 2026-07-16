@@ -1,60 +1,6 @@
 {
-  "updated": "2026-07-16T13:23:00.044081+00:00",
+  "updated": "2026-07-16T15:26:44.765252+00:00",
   "currentFree": [
-    {
-      "id": "e5da2c017d4d4afab9f4c56525b66100",
-      "slug": "nova-lands-4d1788",
-      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
-      "title": "Nova Lands",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
-      "freePeriod": {
-        "start": "2026-07-09T15:00:00+00:00",
-        "end": "2026-07-16T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 91,
-        "igdb": 77,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "f247e0af293645bda266fa9957d82d62",
-      "slug": "tattoo-tycoon-b4352c",
-      "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
-      "title": "Tattoo Tycoon",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
-      "freePeriod": {
-        "start": "2026-07-09T15:00:00+00:00",
-        "end": "2026-07-16T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 61,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "223c59e227e74e079a1bbe5a234b896f",
-      "slug": "foretales-d6c5bd",
-      "namespace": "c5730ad3d7004a65a472a7699b88008a",
-      "title": "Foretales",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/foretales-d6c5bd",
-      "freePeriod": {
-        "start": "2026-07-23T15:00:00+00:00",
-        "end": "2026-07-30T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 87,
-        "scoreColor": "green"
-      }
-    },
     {
       "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
       "slug": "luto-0a4ab3",
@@ -93,7 +39,61 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "223c59e227e74e079a1bbe5a234b896f",
+      "slug": "foretales-d6c5bd",
+      "namespace": "c5730ad3d7004a65a472a7699b88008a",
+      "title": "Foretales",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/foretales-d6c5bd",
+      "freePeriod": {
+        "start": "2026-07-23T15:00:00+00:00",
+        "end": "2026-07-30T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 87,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "e5da2c017d4d4afab9f4c56525b66100",
+      "slug": "nova-lands-4d1788",
+      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
+      "title": "Nova Lands",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/nova-lands-4d1788",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 91,
+        "igdb": 77,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "f247e0af293645bda266fa9957d82d62",
+      "slug": "tattoo-tycoon-b4352c",
+      "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
+      "title": "Tattoo Tycoon",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
+      "freePeriod": {
+        "start": "2026-07-09T15:00:00+00:00",
+        "end": "2026-07-16T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 61,
+        "scoreColor": "yellow"
+      }
+    },
     {
       "id": "9bf3d3188d1e498095bc23c0955538d9",
       "slug": "river-city-girls-2-77af3a",
