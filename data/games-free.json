@@ -1,6 +1,63 @@
 {
-  "updated": "2026-07-23T13:26:26.406220+00:00",
+  "updated": "2026-07-23T15:47:50.976837+00:00",
   "currentFree": [
+    {
+      "id": "223c59e227e74e079a1bbe5a234b896f",
+      "slug": "foretales-d6c5bd",
+      "namespace": "c5730ad3d7004a65a472a7699b88008a",
+      "title": "Foretales",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/foretales-d6c5bd",
+      "freePeriod": {
+        "start": "2026-07-23T15:00:00+00:00",
+        "end": "2026-07-30T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 87,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "fb86769d4908427986ca9f7d94b581c2",
+      "slug": "otxo-396b8b",
+      "namespace": "dfe95c9009f548b0b167b3d65cc91979",
+      "title": "OTXO",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/otxo-396b8b",
+      "freePeriod": {
+        "start": "2026-07-30T15:00:00+00:00",
+        "end": "2026-08-06T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 81,
+        "steam": 94,
+        "igdb": 84,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "c71375f1ac9444fcae1ca584a53ba6f0",
+      "slug": "sol-cesto-e9b803",
+      "namespace": "ce5d3cf74f36450cb7136952dc5b520f",
+      "title": "Sol Cesto",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sol-cesto-e9b803",
+      "freePeriod": {
+        "start": "2026-07-30T15:00:00+00:00",
+        "end": "2026-08-06T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 91,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
       "slug": "luto-0a4ab3",
@@ -37,28 +94,7 @@
         "steam": 93,
         "scoreColor": "green"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "223c59e227e74e079a1bbe5a234b896f",
-      "slug": "foretales-d6c5bd",
-      "namespace": "c5730ad3d7004a65a472a7699b88008a",
-      "title": "Foretales",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/foretales-d6c5bd",
-      "freePeriod": {
-        "start": "2026-07-23T15:00:00+00:00",
-        "end": "2026-07-30T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 87,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "past": [
+    },
     {
       "id": "e5da2c017d4d4afab9f4c56525b66100",
       "slug": "nova-lands-4d1788",
