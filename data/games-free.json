@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T22:06:03.765570+00:00",
+  "updated": "2026-07-28T23:52:05.047079+00:00",
   "currentFree": [
     {
       "id": "223c59e227e74e079a1bbe5a234b896f",
@@ -107,6 +107,7 @@
       },
       "genres": [],
       "rating": {
+        "steam": 91,
         "igdb": 77,
         "scoreColor": "green"
       }
@@ -141,6 +142,7 @@
       },
       "genres": [],
       "rating": {
+        "steam": 85,
         "igdb": 84,
         "scoreColor": "green"
       }
@@ -158,6 +160,7 @@
       },
       "genres": [],
       "rating": {
+        "steam": 89,
         "igdb": 80,
         "scoreColor": "green"
       }
@@ -175,6 +178,7 @@
       },
       "genres": [],
       "rating": {
+        "steam": 87,
         "igdb": 80,
         "scoreColor": "green"
       }
