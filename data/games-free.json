@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:23:05.948734+00:00",
+  "updated": "2026-07-29T11:14:38.830452+00:00",
   "currentFree": [
     {
       "id": "223c59e227e74e079a1bbe5a234b896f",
@@ -20,6 +20,25 @@
     }
   ],
   "upcoming": [
+    {
+      "id": "871cc4ff18444059890a4d28653a62d5",
+      "slug": "beacon-pines-629fc3",
+      "namespace": "1c83ea77e736438f9852b31aeb4f7a20",
+      "title": "Beacon Pines",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/beacon-pines-629fc3",
+      "freePeriod": {
+        "start": "2026-08-06T15:00:00+00:00",
+        "end": "2026-08-13T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "steam": 98,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "fb86769d4908427986ca9f7d94b581c2",
       "slug": "otxo-396b8b",
