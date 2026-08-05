@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T10:26:32.225699+00:00",
+  "updated": "2026-08-05T12:47:46.585766+00:00",
   "currentFree": [
     {
       "id": "fb86769d4908427986ca9f7d94b581c2",
@@ -55,6 +55,24 @@
         "steam": 98,
         "igdb": 80,
         "scoreColor": "green"
+      }
+    },
+    {
+      "id": "0e44600a079e419abbb291ccf5af9ee7",
+      "slug": "caravan-sandwitch-05ff58",
+      "namespace": "45b137b2ecd14e01a54b52e575f1632d",
+      "title": "Caravan SandWitch",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+      "freePeriod": {
+        "start": "2026-08-13T15:00:00+00:00",
+        "end": "2026-08-20T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 74,
+        "igdb": 72,
+        "scoreColor": "yellow"
       }
     },
     {
