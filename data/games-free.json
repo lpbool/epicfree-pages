@@ -1,43 +1,6 @@
 {
-  "updated": "2026-08-06T12:51:16.774557+00:00",
+  "updated": "2026-08-06T15:06:51.256052+00:00",
   "currentFree": [
-    {
-      "id": "fb86769d4908427986ca9f7d94b581c2",
-      "slug": "otxo-396b8b",
-      "namespace": "dfe95c9009f548b0b167b3d65cc91979",
-      "title": "OTXO",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/otxo-396b8b",
-      "freePeriod": {
-        "start": "2026-07-30T15:00:00+00:00",
-        "end": "2026-08-06T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 100,
-        "igdb": 84,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "c71375f1ac9444fcae1ca584a53ba6f0",
-      "slug": "sol-cesto-e9b803",
-      "namespace": "ce5d3cf74f36450cb7136952dc5b520f",
-      "title": "Sol Cesto",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/sol-cesto-e9b803",
-      "freePeriod": {
-        "start": "2026-07-30T15:00:00+00:00",
-        "end": "2026-08-06T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 91,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "871cc4ff18444059890a4d28653a62d5",
       "slug": "beacon-pines-629fc3",
@@ -55,24 +18,6 @@
         "steam": 98,
         "igdb": 80,
         "scoreColor": "green"
-      }
-    },
-    {
-      "id": "0e44600a079e419abbb291ccf5af9ee7",
-      "slug": "caravan-sandwitch-05ff58",
-      "namespace": "45b137b2ecd14e01a54b52e575f1632d",
-      "title": "Caravan SandWitch",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
-      "freePeriod": {
-        "start": "2026-08-13T15:00:00+00:00",
-        "end": "2026-08-20T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 74,
-        "igdb": 72,
-        "scoreColor": "yellow"
       }
     },
     {
@@ -95,7 +40,63 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "0e44600a079e419abbb291ccf5af9ee7",
+      "slug": "caravan-sandwitch-05ff58",
+      "namespace": "45b137b2ecd14e01a54b52e575f1632d",
+      "title": "Caravan SandWitch",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+      "freePeriod": {
+        "start": "2026-08-13T15:00:00+00:00",
+        "end": "2026-08-20T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 74,
+        "igdb": 72,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "fb86769d4908427986ca9f7d94b581c2",
+      "slug": "otxo-396b8b",
+      "namespace": "dfe95c9009f548b0b167b3d65cc91979",
+      "title": "OTXO",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/otxo-396b8b",
+      "freePeriod": {
+        "start": "2026-07-30T15:00:00+00:00",
+        "end": "2026-08-06T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 81,
+        "steam": 94,
+        "igdb": 84,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "c71375f1ac9444fcae1ca584a53ba6f0",
+      "slug": "sol-cesto-e9b803",
+      "namespace": "ce5d3cf74f36450cb7136952dc5b520f",
+      "title": "Sol Cesto",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sol-cesto-e9b803",
+      "freePeriod": {
+        "start": "2026-07-30T15:00:00+00:00",
+        "end": "2026-08-06T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 91,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "223c59e227e74e079a1bbe5a234b896f",
       "slug": "foretales-d6c5bd",
