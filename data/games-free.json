@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-13T14:16:25.726530+00:00",
+  "updated": "2026-08-13T15:50:54.882386+00:00",
   "currentFree": [
+    {
+      "id": "0e44600a079e419abbb291ccf5af9ee7",
+      "slug": "caravan-sandwitch-05ff58",
+      "namespace": "45b137b2ecd14e01a54b52e575f1632d",
+      "title": "Caravan SandWitch",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+      "freePeriod": {
+        "start": "2026-08-13T15:00:00+00:00",
+        "end": "2026-08-20T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 74,
+        "igdb": 72,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "b467b7d3570e44c0b84e59475f4a5636",
+      "slug": "cardpocalypse",
+      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+      "title": "Cardpocalypse Standard Edition",
+      "thumbnail": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
+      "epicUrl": "https://store.epicgames.com/ko/p/cardpocalypse",
+      "freePeriod": {
+        "start": "2026-08-20T15:00:00+00:00",
+        "end": "2026-08-27T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "a802acab90af4a07952a07a9fa677f2f",
+      "slug": "albion-online-7eb24d",
+      "namespace": "72520902fc594621b6daa5a6217b4ee7",
+      "title": "Epic Mage Bundle",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/albion-online-7eb24d",
+      "freePeriod": {
+        "start": "2026-08-20T15:00:00+00:00",
+        "end": "2026-08-27T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "past": [
     {
       "id": "871cc4ff18444059890a4d28653a62d5",
       "slug": "beacon-pines-629fc3",
@@ -38,42 +86,7 @@
         "igdb": 75,
         "scoreColor": "green"
       }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "b467b7d3570e44c0b84e59475f4a5636",
-      "slug": "cardpocalypse",
-      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
-      "title": "Cardpocalypse Standard Edition",
-      "thumbnail": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
-      "epicUrl": "https://store.epicgames.com/ko/p/cardpocalypse",
-      "freePeriod": {
-        "start": "2026-08-20T15:00:00+00:00",
-        "end": "2026-08-27T15:00:00+00:00"
-      },
-      "genres": []
     },
-    {
-      "id": "0e44600a079e419abbb291ccf5af9ee7",
-      "slug": "caravan-sandwitch-05ff58",
-      "namespace": "45b137b2ecd14e01a54b52e575f1632d",
-      "title": "Caravan SandWitch",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
-      "freePeriod": {
-        "start": "2026-08-13T15:00:00+00:00",
-        "end": "2026-08-20T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 74,
-        "igdb": 72,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "past": [
     {
       "id": "fb86769d4908427986ca9f7d94b581c2",
       "slug": "otxo-396b8b",
