@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T13:38:32.862075+00:00",
+  "updated": "2026-08-20T14:26:01.016205+00:00",
   "currentFree": [
     {
       "id": "0e44600a079e419abbb291ccf5af9ee7",
@@ -35,6 +35,23 @@
       "genres": []
     },
     {
+      "id": "8401414902e84f2cb9afa9142f051d32",
+      "slug": "breathedge",
+      "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+      "title": "Breathedge",
+      "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/breathedge",
+      "freePeriod": {
+        "start": "2026-08-27T15:00:00+00:00",
+        "end": "2026-09-03T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 82,
+        "scoreColor": "green"
+      }
+    },
+    {
       "id": "a802acab90af4a07952a07a9fa677f2f",
       "slug": "albion-online-7eb24d",
       "namespace": "72520902fc594621b6daa5a6217b4ee7",
@@ -44,6 +61,19 @@
       "freePeriod": {
         "start": "2026-08-20T15:00:00+00:00",
         "end": "2026-08-27T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "8f1fcf01e32e4fd4b2ae0a9737992760",
+      "slug": "rival-stars-horse-racing-dd09de",
+      "namespace": "f570d80aa4fe463ca53c4410d1c75e1e",
+      "title": "Rival Stars Horse Racing : Desktop Edition",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/rival-stars-horse-racing-dd09de",
+      "freePeriod": {
+        "start": "2026-08-27T15:00:00+00:00",
+        "end": "2026-09-03T15:00:00+00:00"
       },
       "genres": []
     }
