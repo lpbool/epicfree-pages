@@ -1,27 +1,6 @@
 {
-  "updated": "2026-09-10T12:31:36.382521+00:00",
+  "updated": "2026-09-10T16:46:40.551181+00:00",
   "currentFree": [
-    {
-      "id": "b8cc76ce7d6645f0a282b843a072cc78",
-      "slug": "alone-with-you-028a15",
-      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
-      "title": "Alone With You",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
-      "freePeriod": {
-        "start": "2026-09-03T15:00:00+00:00",
-        "end": "2026-09-10T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 74,
-        "steam": 78,
-        "igdb": 73,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "c76046dddcdb43619c33ce0395941033",
       "slug": "luftrausers-51e5e9",
@@ -37,7 +16,6 @@
       "rating": {
         "metacritic": 80,
         "steam": 91,
-        "igdb": 80,
         "scoreColor": "green"
       }
     },
@@ -61,7 +39,65 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "8a20c6c8d5b5417e800c687e9d72013e",
+      "slug": "mindcop-78e6c1",
+      "namespace": "f20a4eda0f2d486ea73cab8af1224e31",
+      "title": "Mindcop",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/mindcop-78e6c1",
+      "freePeriod": {
+        "start": "2026-09-17T15:00:00+00:00",
+        "end": "2026-09-24T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 87,
+        "steam": 94,
+        "igdb": 88,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "b9ff3f98367a45cdac289dff6683a2bc",
+      "slug": "shogun-showdown-61832d",
+      "namespace": "59ff4d481277487d8c073166ba7612d3",
+      "title": "Shogun Showdown",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/shogun-showdown-61832d",
+      "freePeriod": {
+        "start": "2026-09-17T15:00:00+00:00",
+        "end": "2026-09-24T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 96,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "b8cc76ce7d6645f0a282b843a072cc78",
+      "slug": "alone-with-you-028a15",
+      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
+      "title": "Alone With You",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
+      "freePeriod": {
+        "start": "2026-09-03T15:00:00+00:00",
+        "end": "2026-09-10T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 74,
+        "steam": 78,
+        "igdb": 73,
+        "scoreColor": "yellow"
+      }
+    },
     {
       "id": "8401414902e84f2cb9afa9142f051d32",
       "slug": "breathedge",
