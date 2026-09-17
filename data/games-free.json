@@ -1,64 +1,6 @@
 {
-  "updated": "2026-09-17T13:58:22.501287+00:00",
+  "updated": "2026-09-17T17:56:41.464008+00:00",
   "currentFree": [
-    {
-      "id": "c76046dddcdb43619c33ce0395941033",
-      "slug": "luftrausers-51e5e9",
-      "namespace": "639daf403b554ee9b02eee5eedafc302",
-      "title": "Luftrausers",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
-      "freePeriod": {
-        "start": "2026-09-10T15:00:00+00:00",
-        "end": "2026-09-17T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 80,
-        "steam": 91,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "e9bb092228f544c582e2c9395fae96f3",
-      "slug": "astral-ascent-b33bc2",
-      "namespace": "0cb5817d554740e8bedf9ceea32522bd",
-      "title": "Astral Ascent",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
-      "freePeriod": {
-        "start": "2026-09-10T15:00:00+00:00",
-        "end": "2026-09-17T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 86,
-        "steam": 94,
-        "igdb": 92,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "6d99eae44d724baf84d6261a7a0f05d2",
-      "slug": "mechabellum-88a843",
-      "namespace": "36074aa6badf45698cced1a44e837fa2",
-      "title": "Mechabellum",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/mechabellum-88a843",
-      "freePeriod": {
-        "start": "2026-09-24T15:00:00+00:00",
-        "end": "2026-10-01T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 84,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
-    },
     {
       "id": "8a20c6c8d5b5417e800c687e9d72013e",
       "slug": "mindcop-78e6c1",
@@ -97,7 +39,83 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "7c14bf0cffdd43be968fdcf28e5af653",
+      "slug": "astrea-six-sided-oracles-33c949",
+      "namespace": "a940fa38f001486a9884640924119576",
+      "title": "Astrea Six Sided Oracles",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+      "freePeriod": {
+        "start": "2026-09-24T15:00:00+00:00",
+        "end": "2026-10-01T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 85,
+        "steam": 92,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "6d99eae44d724baf84d6261a7a0f05d2",
+      "slug": "mechabellum-88a843",
+      "namespace": "36074aa6badf45698cced1a44e837fa2",
+      "title": "Mechabellum",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/mechabellum-88a843",
+      "freePeriod": {
+        "start": "2026-09-24T15:00:00+00:00",
+        "end": "2026-10-01T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 84,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "c76046dddcdb43619c33ce0395941033",
+      "slug": "luftrausers-51e5e9",
+      "namespace": "639daf403b554ee9b02eee5eedafc302",
+      "title": "Luftrausers",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+      "freePeriod": {
+        "start": "2026-09-10T15:00:00+00:00",
+        "end": "2026-09-17T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 80,
+        "steam": 91,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "e9bb092228f544c582e2c9395fae96f3",
+      "slug": "astral-ascent-b33bc2",
+      "namespace": "0cb5817d554740e8bedf9ceea32522bd",
+      "title": "Astral Ascent",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
+      "freePeriod": {
+        "start": "2026-09-10T15:00:00+00:00",
+        "end": "2026-09-17T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 86,
+        "steam": 94,
+        "igdb": 92,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "b8cc76ce7d6645f0a282b843a072cc78",
       "slug": "alone-with-you-028a15",
