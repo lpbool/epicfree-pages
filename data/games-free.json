@@ -1,44 +1,6 @@
 {
-  "updated": "2026-10-01T10:35:34.319352+00:00",
+  "updated": "2026-10-01T17:11:59.701849+00:00",
   "currentFree": [
-    {
-      "id": "7c14bf0cffdd43be968fdcf28e5af653",
-      "slug": "astrea-six-sided-oracles-33c949",
-      "namespace": "a940fa38f001486a9884640924119576",
-      "title": "Astrea Six Sided Oracles",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
-      "freePeriod": {
-        "start": "2026-09-24T15:00:00+00:00",
-        "end": "2026-10-01T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 85,
-        "steam": 92,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "6d99eae44d724baf84d6261a7a0f05d2",
-      "slug": "mechabellum-88a843",
-      "namespace": "36074aa6badf45698cced1a44e837fa2",
-      "title": "Mechabellum",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/mechabellum-88a843",
-      "freePeriod": {
-        "start": "2026-09-24T15:00:00+00:00",
-        "end": "2026-10-01T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 84,
-        "igdb": 80,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "7ae00c3e89174012b175cc73b4737723",
       "slug": "system-shock-2-25th-anniversary-remaster-cb94d9",
@@ -77,7 +39,80 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "cb733f3432db46bca94965b422c33ede",
+      "slug": "out-of-sight-b96ca8",
+      "namespace": "436099305a2249a8bbe4d9113fc41d53",
+      "title": "Out of Sight",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/out-of-sight-b96ca8",
+      "freePeriod": {
+        "start": "2026-10-08T15:00:00+00:00",
+        "end": "2026-10-15T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 80,
+        "steam": 95,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "af6b823b8698465f9aedc3bddf2e8686",
+      "slug": "terrascape-2b12b1",
+      "namespace": "bfb80547289b477193ce3b14d83cd292",
+      "title": "TerraScape",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
+      "freePeriod": {
+        "start": "2026-10-08T15:00:00+00:00",
+        "end": "2026-10-15T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "7c14bf0cffdd43be968fdcf28e5af653",
+      "slug": "astrea-six-sided-oracles-33c949",
+      "namespace": "a940fa38f001486a9884640924119576",
+      "title": "Astrea Six Sided Oracles",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+      "freePeriod": {
+        "start": "2026-09-24T15:00:00+00:00",
+        "end": "2026-10-01T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 85,
+        "steam": 92,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "6d99eae44d724baf84d6261a7a0f05d2",
+      "slug": "mechabellum-88a843",
+      "namespace": "36074aa6badf45698cced1a44e837fa2",
+      "title": "Mechabellum",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/mechabellum-88a843",
+      "freePeriod": {
+        "start": "2026-09-24T15:00:00+00:00",
+        "end": "2026-10-01T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 84,
+        "igdb": 80,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "8a20c6c8d5b5417e800c687e9d72013e",
       "slug": "mindcop-78e6c1",
