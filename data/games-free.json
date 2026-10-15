@@ -1,43 +1,6 @@
 {
-  "updated": "2026-10-15T12:19:11.749630+00:00",
+  "updated": "2026-10-15T17:31:03.071312+00:00",
   "currentFree": [
-    {
-      "id": "cb733f3432db46bca94965b422c33ede",
-      "slug": "out-of-sight-b96ca8",
-      "namespace": "436099305a2249a8bbe4d9113fc41d53",
-      "title": "Out of Sight",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/out-of-sight-b96ca8",
-      "freePeriod": {
-        "start": "2026-10-08T15:00:00+00:00",
-        "end": "2026-10-15T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 80,
-        "steam": 95,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "af6b823b8698465f9aedc3bddf2e8686",
-      "slug": "terrascape-2b12b1",
-      "namespace": "bfb80547289b477193ce3b14d83cd292",
-      "title": "TerraScape",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
-      "freePeriod": {
-        "start": "2026-10-08T15:00:00+00:00",
-        "end": "2026-10-15T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 88,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "6a846880836044a2adad614ac771f487",
       "slug": "bad-cheese-4256d9",
@@ -74,7 +37,75 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
+      "slug": "sker-ritual-aac702",
+      "namespace": "156c17659ff0468bb533eba104a1f19f",
+      "title": "Sker Ritual",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sker-ritual-aac702",
+      "freePeriod": {
+        "start": "2026-10-22T15:00:00+00:00",
+        "end": "2026-10-29T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 83,
+        "igdb": 61,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "06190191cede42afb633fe89ef08c27e",
+      "slug": "home-19212a",
+      "namespace": "c7e46cce751b40b6937e878abd0fc531",
+      "title": "Home - A Unique Horror Adventure",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/home-19212a",
+      "freePeriod": {
+        "start": "2026-10-22T15:00:00+00:00",
+        "end": "2026-10-29T15:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
   "past": [
+    {
+      "id": "cb733f3432db46bca94965b422c33ede",
+      "slug": "out-of-sight-b96ca8",
+      "namespace": "436099305a2249a8bbe4d9113fc41d53",
+      "title": "Out of Sight",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/out-of-sight-b96ca8",
+      "freePeriod": {
+        "start": "2026-10-08T15:00:00+00:00",
+        "end": "2026-10-15T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 80,
+        "steam": 95,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "af6b823b8698465f9aedc3bddf2e8686",
+      "slug": "terrascape-2b12b1",
+      "namespace": "bfb80547289b477193ce3b14d83cd292",
+      "title": "TerraScape",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
+      "freePeriod": {
+        "start": "2026-10-08T15:00:00+00:00",
+        "end": "2026-10-15T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 88,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "7ae00c3e89174012b175cc73b4737723",
       "slug": "system-shock-2-25th-anniversary-remaster-cb94d9",
