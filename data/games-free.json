@@ -1,43 +1,6 @@
 {
-  "updated": "2026-10-22T12:39:05.363214+00:00",
+  "updated": "2026-10-22T17:45:17.132755+00:00",
   "currentFree": [
-    {
-      "id": "6a846880836044a2adad614ac771f487",
-      "slug": "bad-cheese-4256d9",
-      "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4",
-      "title": "Bad Cheese",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/bad-cheese-4256d9",
-      "freePeriod": {
-        "start": "2026-10-15T15:00:00+00:00",
-        "end": "2026-10-22T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 72,
-        "scoreColor": "yellow"
-      }
-    },
-    {
-      "id": "db1202a30c5541dd99cdf54c918a9348",
-      "slug": "agent-a-a-puzzle-in-disguise-42fe5f",
-      "namespace": "45f125178d8c4bc18e1827a307bcc5c0",
-      "title": "Agent A: A puzzle in disguise",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
-      "freePeriod": {
-        "start": "2026-10-15T15:00:00+00:00",
-        "end": "2026-10-22T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "steam": 95,
-        "igdb": 78,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
       "slug": "sker-ritual-aac702",
@@ -70,7 +33,63 @@
       "genres": []
     }
   ],
+  "upcoming": [
+    {
+      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
+      "slug": "sorry-were-closed-724c86",
+      "namespace": "489af623d8284d518502f8ee9d33b828",
+      "title": "Sorry We're Closed",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+      "freePeriod": {
+        "start": "2026-10-29T15:00:00+00:00",
+        "end": "2026-11-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "steam": 98,
+        "igdb": 69,
+        "scoreColor": "green"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "6a846880836044a2adad614ac771f487",
+      "slug": "bad-cheese-4256d9",
+      "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4",
+      "title": "Bad Cheese",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/bad-cheese-4256d9",
+      "freePeriod": {
+        "start": "2026-10-15T15:00:00+00:00",
+        "end": "2026-10-22T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 71,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "db1202a30c5541dd99cdf54c918a9348",
+      "slug": "agent-a-a-puzzle-in-disguise-42fe5f",
+      "namespace": "45f125178d8c4bc18e1827a307bcc5c0",
+      "title": "Agent A: A puzzle in disguise",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "freePeriod": {
+        "start": "2026-10-15T15:00:00+00:00",
+        "end": "2026-10-22T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "steam": 95,
+        "igdb": 78,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "cb733f3432db46bca94965b422c33ede",
       "slug": "out-of-sight-b96ca8",
