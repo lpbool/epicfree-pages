@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:00:11.243973+00:00",
+  "updated": "2026-10-22T23:55:22.520047+00:00",
   "currentFree": [
     {
       "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
@@ -14,7 +14,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 83,
         "igdb": 61,
         "scoreColor": "yellow"
       }
@@ -48,7 +47,6 @@
       "genres": [],
       "rating": {
         "metacritic": 83,
-        "steam": 98,
         "igdb": 69,
         "scoreColor": "green"
       }
@@ -85,7 +83,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 95,
         "igdb": 78,
         "scoreColor": "green"
       }
@@ -104,7 +101,6 @@
       "genres": [],
       "rating": {
         "metacritic": 80,
-        "steam": 95,
         "scoreColor": "green"
       }
     },
@@ -157,7 +153,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 83,
         "igdb": 76,
         "scoreColor": "green"
       }
@@ -176,7 +171,6 @@
       "genres": [],
       "rating": {
         "metacritic": 85,
-        "steam": 92,
         "scoreColor": "green"
       }
     },
@@ -193,7 +187,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 84,
         "igdb": 80,
         "scoreColor": "green"
       }
@@ -230,7 +223,6 @@
       },
       "genres": [],
       "rating": {
-        "steam": 95,
         "igdb": 79,
         "scoreColor": "green"
       }
