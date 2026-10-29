@@ -1,6 +1,58 @@
 {
-  "updated": "2026-10-29T14:48:41.405662+00:00",
+  "updated": "2026-10-29T19:58:33.689746+00:00",
   "currentFree": [
+    {
+      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
+      "slug": "sorry-were-closed-724c86",
+      "namespace": "489af623d8284d518502f8ee9d33b828",
+      "title": "Sorry We're Closed",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+      "freePeriod": {
+        "start": "2026-10-29T15:00:00+00:00",
+        "end": "2026-11-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "igdb": 69,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "a9748abde1c94b66aae5250bb9fc5503",
+      "slug": "idle-champions-of-the-forgotten-realms",
+      "namespace": "7e508f543b05465abe3a935960eb70ac",
+      "title": "Idle Champions of the Forgotten Realms",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xbn9.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+      "freePeriod": {
+        "start": "2026-11-05T16:00:00+00:00",
+        "end": "2026-11-12T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 71,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "3be0a0d8479946d78f60d90c9442a0b4",
+      "slug": "flotsam-266287",
+      "namespace": "27e33143fc9e4de8bbf76782292933d4",
+      "title": "Flotsam",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/flotsam-266287",
+      "freePeriod": {
+        "start": "2026-11-05T16:00:00+00:00",
+        "end": "2026-11-12T16:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
+  "past": [
     {
       "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
       "slug": "sker-ritual-aac702",
@@ -30,46 +82,7 @@
         "end": "2026-10-29T15:00:00+00:00"
       },
       "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "a9748abde1c94b66aae5250bb9fc5503",
-      "slug": "idle-champions-of-the-forgotten-realms",
-      "namespace": "7e508f543b05465abe3a935960eb70ac",
-      "title": "Idle Champions of the Forgotten Realms",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xbn9.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
-      "freePeriod": {
-        "start": "2026-11-05T16:00:00+00:00",
-        "end": "2026-11-12T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "igdb": 71,
-        "scoreColor": "yellow"
-      }
     },
-    {
-      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
-      "slug": "sorry-were-closed-724c86",
-      "namespace": "489af623d8284d518502f8ee9d33b828",
-      "title": "Sorry We're Closed",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
-      "freePeriod": {
-        "start": "2026-10-29T15:00:00+00:00",
-        "end": "2026-11-05T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 83,
-        "igdb": 69,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "past": [
     {
       "id": "6a846880836044a2adad614ac771f487",
       "slug": "bad-cheese-4256d9",
