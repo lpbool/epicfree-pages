@@ -1,26 +1,6 @@
 {
-  "updated": "2026-11-05T08:46:02.636250+00:00",
+  "updated": "2026-11-05T16:57:52.614475+00:00",
   "currentFree": [
-    {
-      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
-      "slug": "sorry-were-closed-724c86",
-      "namespace": "489af623d8284d518502f8ee9d33b828",
-      "title": "Sorry We're Closed",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
-      "freePeriod": {
-        "start": "2026-10-29T15:00:00+00:00",
-        "end": "2026-11-05T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "metacritic": 83,
-        "igdb": 69,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "a9748abde1c94b66aae5250bb9fc5503",
       "slug": "idle-champions-of-the-forgotten-realms",
@@ -52,7 +32,40 @@
       "genres": []
     }
   ],
+  "upcoming": [
+    {
+      "id": "9975548b6d404a94b8a9bdb34cad49e9",
+      "slug": "knightica-3be45c",
+      "namespace": "02d659f31e1c43a78c43fd9fd9edc089",
+      "title": "Knightica",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/knightica-3be45c",
+      "freePeriod": {
+        "start": "2026-11-12T16:00:00+00:00",
+        "end": "2026-11-19T16:00:00+00:00"
+      },
+      "genres": []
+    }
+  ],
   "past": [
+    {
+      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
+      "slug": "sorry-were-closed-724c86",
+      "namespace": "489af623d8284d518502f8ee9d33b828",
+      "title": "Sorry We're Closed",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+      "freePeriod": {
+        "start": "2026-10-29T15:00:00+00:00",
+        "end": "2026-11-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "metacritic": 83,
+        "igdb": 69,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
       "slug": "sker-ritual-aac702",
