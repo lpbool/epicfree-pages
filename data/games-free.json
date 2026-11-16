@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T03:57:38.937023+00:00",
+  "updated": "2026-11-16T12:25:06.911442+00:00",
   "currentFree": [
     {
       "id": "9975548b6d404a94b8a9bdb34cad49e9",
@@ -16,23 +16,6 @@
     }
   ],
   "upcoming": [
-    {
-      "id": "d37f3694e7a04edb8347f3cb6320f9d3",
-      "slug": "alien-isolation",
-      "namespace": "df37f065c3f14eadbf011177396e2966",
-      "title": "Alien: Isolation",
-      "thumbnail": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/alien-isolation",
-      "freePeriod": {
-        "start": "2026-11-19T16:00:00+00:00",
-        "end": "2026-11-26T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "igdb": 88,
-        "scoreColor": "green"
-      }
-    },
     {
       "id": "1f9a12b06b4f437790b6913ad136a08c",
       "slug": "mark-of-the-deep-f7dc08",
