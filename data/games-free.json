@@ -1,38 +1,6 @@
 {
-  "updated": "2026-11-19T10:57:06.610437+00:00",
+  "updated": "2026-11-19T19:19:11.963589+00:00",
   "currentFree": [
-    {
-      "id": "9975548b6d404a94b8a9bdb34cad49e9",
-      "slug": "knightica-3be45c",
-      "namespace": "02d659f31e1c43a78c43fd9fd9edc089",
-      "title": "Knightica",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/knightica-3be45c",
-      "freePeriod": {
-        "start": "2026-11-12T16:00:00+00:00",
-        "end": "2026-11-19T16:00:00+00:00"
-      },
-      "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "0623017cf9f341efbe07557f46beb4e8",
-      "slug": "firestone-online-idle-rpg-bfd04b",
-      "namespace": "bda8d2133655435982b9118972792328",
-      "title": "Firestone – Idle Clicker Online RPG",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
-      "freePeriod": {
-        "start": "2026-11-26T16:00:00+00:00",
-        "end": "2026-12-03T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "igdb": 47,
-        "scoreColor": "red"
-      }
-    },
     {
       "id": "1f9a12b06b4f437790b6913ad136a08c",
       "slug": "mark-of-the-deep-f7dc08",
@@ -51,7 +19,56 @@
       }
     }
   ],
+  "upcoming": [
+    {
+      "id": "0623017cf9f341efbe07557f46beb4e8",
+      "slug": "firestone-online-idle-rpg-bfd04b",
+      "namespace": "bda8d2133655435982b9118972792328",
+      "title": "Firestone – Idle Clicker Online RPG",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "freePeriod": {
+        "start": "2026-11-26T16:00:00+00:00",
+        "end": "2026-12-03T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 47,
+        "scoreColor": "red"
+      }
+    },
+    {
+      "id": "f0a333114190492c84a9decd2bb43875",
+      "slug": "bread-and-fred-1db362",
+      "namespace": "7e95faaa77054b80828dd7d64bbeb4ff",
+      "title": "Bread and Fred",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
+      "freePeriod": {
+        "start": "2026-11-26T16:00:00+00:00",
+        "end": "2026-12-03T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "igdb": 60,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
   "past": [
+    {
+      "id": "9975548b6d404a94b8a9bdb34cad49e9",
+      "slug": "knightica-3be45c",
+      "namespace": "02d659f31e1c43a78c43fd9fd9edc089",
+      "title": "Knightica",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/knightica-3be45c",
+      "freePeriod": {
+        "start": "2026-11-12T16:00:00+00:00",
+        "end": "2026-11-19T16:00:00+00:00"
+      },
+      "genres": []
+    },
     {
       "id": "a9748abde1c94b66aae5250bb9fc5503",
       "slug": "idle-champions-of-the-forgotten-realms",
